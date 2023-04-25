@@ -1,0 +1,1 @@
+{"version":null,"config":{"vector_data":{"":{"size":768,"distance":"Cosine","hnsw_config":null,"quantization_config":null}},"index":{"type":"plain","options":{}},"storage_type":{"type":"in_memory"},"payload_storage_type":{"type":"on_disk"},"quantization_config":null}}
