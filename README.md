@@ -1,2 +1,2 @@
 # qdrant_title_search
-Fuzzy title search
+Just a first try to do some fuzzy title search with qdrant
